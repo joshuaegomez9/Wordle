@@ -1,3 +1,3 @@
 # Wordle
-Creates and solves Wordle games of different word lengths and keeps tracks of how many tries it took./n
+Creates and solves Wordle games of different word lengths and keeps tracks of how many tries it took.\n
 auto_wordle.py is the file to run
